@@ -39,10 +39,10 @@ There are 15 tables in the DVD Rental database:
   **CONTRIBUTER**  
   Sathi Adak
 
-  **ACKNOWLEDGMENTS**
-I would like to thank who helped me to accomplish this project.
-Will: an instructor of the course, who provided his valuable guidance, mentorship, and expertise throughout the project. 
-Cantek IT Program: Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.
+  **ACKNOWLEDGMENTS**       
+I would like to thank who helped me to accomplish this project.       
+_Will:_ an instructor of the course, who provided his valuable guidance, mentorship, and expertise throughout the project.           
+_Cantek IT Program:_ Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.
 PostgreSQL Tutorial Website: The PostgreSQL Tutorial website offered a valuable contribution by providing a dataset sample. This dataset was effective to learn functions.
 
  
