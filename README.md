@@ -1,4 +1,4 @@
-               **DVD RENTAL DATABASE**
+                                             **DVD RENTAL DATABASE**
 
 ![image](https://github.com/Sathiadak/Project/assets/141050291/7b6b6ed0-8fc3-4e72-82a7-53fc0844cd36)
 
