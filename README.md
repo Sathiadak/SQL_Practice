@@ -1,6 +1,8 @@
 **DVD RENTAL DATABASE**
 
-The DVD rental database represents the business processes of a DVD rental store. The DVD rental database has many objects, including:
+The DVD rental database represents the business processes of a DVD rental store. 
+
+The DVD rental database has many objects, including:
 
 15 tables
 1 trigger
@@ -11,6 +13,7 @@ The DVD rental database represents the business processes of a DVD rental store.
 DVD Rental ER Model
 PostgreSQL Sample Database Diagram
 PostgreSQL Sample Database Tables
+
 There are 15 tables in the DVD Rental database:
 
 ![ERD-Notation](https://github.com/Sathiadak/Project/assets/141050291/6763fcff-00c5-491a-93b3-049215e1c507)
