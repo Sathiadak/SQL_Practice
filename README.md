@@ -27,7 +27,7 @@ There are 15 tables in the DVD Rental database:
 Description of signs:
 
 
-![ERD-Notation]("https://github.com/Sathiadak/Project/assets/141050291/6763fcff-00c5-491a-93b3-049215e1c507" width="200" height="400")
+![ERD-Notation]("https://github.com/Sathiadak/Project/assets/141050291/6763fcff-00c5-491a-93b3-049215e1c507" width="20" height="40")
 
 actor – stores actors data including first name and last name.
 film – stores film data such as title, release year, length, rating, etc.
