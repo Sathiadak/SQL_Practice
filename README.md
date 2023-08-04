@@ -1,6 +1,7 @@
 **DVD RENTAL DATABASE**
 
-![image](https://github.com/Sathiadak/Project/assets/141050291/8449a6d1-def8-4425-839f-c508a0a40136)
+![image](https://github.com/Sathiadak/Project/assets/141050291/7b6b6ed0-8fc3-4e72-82a7-53fc0844cd36)
+
 
 The DVD rental database represents the business processes of a DVD rental store. 
 
