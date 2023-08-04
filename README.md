@@ -32,9 +32,17 @@ There are 15 tables in the DVD Rental database:
 13. City – stores city names.        
 14. Country – stores country names.       
 
-  **Tool**      
+  **TOOL**      
 1. PostgreSQL (Version: 7.3)   
 2. Git (Version: 2.23.0)
 
- 
+  **CONTRIBUTER**  
+  Sathi Adak
+
+  **ACKNOWLEDGMENTS**
+I would like to thank who helped me to accomplish this project.
+Will: an instructor of the course, who provided his valuable guidance, mentorship, and expertise throughout the project. 
+Cantek IT Program: Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.
+PostgreSQL Tutorial Website: The PostgreSQL Tutorial website offered a valuable contribution by providing a dataset sample. This dataset was effective to learn functions.
+
  
