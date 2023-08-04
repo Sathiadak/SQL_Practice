@@ -2,8 +2,11 @@
 
 ![image](https://github.com/Sathiadak/Project/assets/141050291/7b6b6ed0-8fc3-4e72-82a7-53fc0844cd36)
 
+  **OBJECTIVE**       
+To understand and extract the data from the given database.
+To underatand relation between the tables.
 
-**INTRODUCTION**      
+  **INTRODUCTION**      
 
 The DVD rental database represents the business processes of a DVD rental store. 
 
@@ -33,6 +36,5 @@ There are 15 tables in the DVD Rental database:
 1. PostgreSQL (Version: 7.3)   
 2. Git (Version: 2.23.0)
 
- **DATABASE**
- https://github.com/Sathiadak/Project/blob/main/Database/dvdrental.tar
+ 
  
