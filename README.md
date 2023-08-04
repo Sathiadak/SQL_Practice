@@ -21,6 +21,10 @@ PostgreSQL Sample Database Tables
 
 There are 15 tables in the DVD Rental database:
 
+![image](https://github.com/Sathiadak/Project/assets/141050291/68d88cb6-79e1-4b96-b152-500a23cba616)
+
+
+
 ![ERD-Notation](https://github.com/Sathiadak/Project/assets/141050291/6763fcff-00c5-491a-93b3-049215e1c507)
 
 actor – stores actors data including first name and last name.
