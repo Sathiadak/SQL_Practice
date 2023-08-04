@@ -10,7 +10,7 @@ The DVD rental database represents the business processes of a DVD rental store.
     ** Table Content**
 The DVD rental database has many objects, including:
 
-a. 15 tables
+a. 15 tables                                             
 b. 1 trigger
 c.  views
 d. 8 functions
